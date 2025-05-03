@@ -1,8 +1,5 @@
 # E-CommerceWebsite
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
-
- Live Demo
- ![5](http://127.0.0.1:5500/index.html#)
  
  
  
